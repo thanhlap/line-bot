@@ -13,7 +13,6 @@
 // $write=fwrite($file,"Hello PHP Again!\n");
 // fclose($file);
 
-zZZzZ
 
 
 $curl = curl_init();
